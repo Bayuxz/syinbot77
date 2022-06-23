@@ -52,7 +52,7 @@ Halo, %ucapan %name!
   header: ' *%category*',
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
-  after: `*Made by ♡*
+  after: `*awok XD*
 *%npmname* | %version
 ${'```%npmdesc```'}
 `,
