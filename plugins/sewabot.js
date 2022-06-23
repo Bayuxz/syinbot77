@@ -12,23 +12,23 @@ let handler = async (m, { conn }) => {
   title: `${await conn.getName(conn.user.jid)}`,
   description: ` *• SEWA BOT & UP TO PREMIUM •*
         
-1. Grup / 30 Hari
-Rp. 15.000 Dana
-Rp. 15.000 Pulsa
+1. -
+Rp. -
+Rp. -
 
-2. Premium / 30 Hari
-Rp. 10.000 Dana
-Rp. 10.000 Pulsa
+2. -
+Rp. -
+Rp. -
 
-3. Premium + Grup / 30 Hari
-Rp. 20.000 Dana
-Rp. 20.000 Pulsa
+3. -
+Rp. -
+Rp. -
 
 wa.me/${owner[0]}
 *Bukan Bot!!!*
 *Owner ${conn.user.name}*
 `,
-  buttonText: 'Harga Sesuai Pasaran',
+  buttonText: 'Harga Murah Coy',
   listType: 2,
   productListInfo: {
   productSections: [{
@@ -36,7 +36,7 @@ wa.me/${owner[0]}
   products:[{productId:'7487741964584083'}]}],
   headerImage: { productId: '7487741964584083',
   jpegThumbnail: baper },
-  businessOwnerJid: `6289654360447@s.whatsapp.net`
+  businessOwnerJid: `6289506312533@s.whatsapp.net`
   },
   footerText: 'https://aiinne.github.io',
   }},{})
