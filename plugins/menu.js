@@ -53,7 +53,7 @@ Halo, %ucapan %name!
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
   after: `*awok XD*
-*%npmname* | %version
+*SyinXD* | %version
 ${'```%npmdesc```'}
 `,
 }
