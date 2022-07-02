@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
-╭─「 Donasi • Pulsa 」
-│ •  [-]
+╭─「 Donasi • Saweria 」
+│ •  https://saweria.co/BayuFM
 │ •  [-]
 ╰────
 `.trim()) // Tambah sendiri kalo mau
