@@ -12,17 +12,17 @@ let handler = async (m, { conn }) => {
   title: `${await conn.getName(conn.user.jid)}`,
   description: ` *• SEWA BOT & UP TO PREMIUM •*
         
-1. -
-Rp. -
-Rp. -
+1. Paket 1bulan
+Rp. 10.000
+Rp. 10k
 
-2. -
-Rp. -
-Rp. -
+2. Paket 1tahun
+Rp. 50.000
+Rp. 50k
 
-3. -
-Rp. -
-Rp. -
+3. Paket 5tahun
+Rp. 100.000
+Rp. 100k
 
 wa.me/${owner[0]}
 *Owner Bukan Bot!*
