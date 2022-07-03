@@ -25,7 +25,7 @@ Rp. -
 Rp. -
 
 wa.me/${owner[0]}
-*Bukan Bot!!!*
+*Owner Bukan Bot!*
 *Owner ${conn.user.name}*
 `,
   buttonText: 'Harga Murah Coy',
